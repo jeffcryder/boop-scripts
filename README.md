@@ -1,4 +1,4 @@
-# boop-scripts
+# Boop Scripts
 
 Custom scripts for [Boop](https://boop.okat.best) — a macOS text scratchpad with a built-in script runner.
 
